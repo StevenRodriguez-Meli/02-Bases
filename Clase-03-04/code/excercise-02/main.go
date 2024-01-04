@@ -1,7 +1,7 @@
 package main
 
 import (
-	"app/Clase-03/code/excercise-02/grades"
+	"app/Clase-03-04/code/excercise-02/grades"
 	"fmt"
 )
 
