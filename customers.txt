@@ -1,0 +1,9 @@
+
+Nombre: Juan Lozano
+Edad: 30
+Email: juan@example.com
+
+Nombre: María Gutierrez
+Edad: 25
+Email: maria@example.com
+	
